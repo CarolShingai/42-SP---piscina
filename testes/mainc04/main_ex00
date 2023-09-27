@@ -1,0 +1,5 @@
+int main(void)
+{
+    char b[] = "";
+    printf("%d", ft_strlen(b));
+}

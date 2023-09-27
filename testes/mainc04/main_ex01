@@ -1,0 +1,6 @@
+int main(void)
+{
+   char p[] = "Escreve uma frase qualquer de teste";
+   ft_putstr(p);
+   return (0); 
+}

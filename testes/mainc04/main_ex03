@@ -1,0 +1,10 @@
+int main(int argc, char *argv[])
+{
+    int x;
+    if(argc == 2)
+    {
+        x = ft_atoi(argv[1]);
+        printf("%d\n", x);
+    }
+    return (0);
+}
